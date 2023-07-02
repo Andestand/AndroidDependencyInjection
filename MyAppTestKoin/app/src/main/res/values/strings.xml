@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppTestKoin</string>
+    <string name="list">Список</string>
+    <string name="create">Создать</string>
+</resources>
